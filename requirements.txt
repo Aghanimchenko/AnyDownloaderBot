@@ -1,0 +1,6 @@
+﻿# Библиотека для работы с Telegram Bot API
+# Используем [job-queue] для совместимости, хотя код использует asyncio
+python-telegram-bot[job-queue]
+
+# Основной инструмент для скачивания видео
+yt-dlp
